@@ -136,7 +136,7 @@ const Header: React.FC = () => {
                   fontWeight: 700
                 }}
               >
-                RecipeFinder
+                Cooksy Finder
               </Typography>
             </Box>
 

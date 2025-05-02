@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           <div>
             <Link to="/" className="flex items-center">
               <ChefHat className="h-8 w-8 text-[#E76F51]" />
-              <span className="ml-2 text-2xl font-bold">RecipeFinder</span>
+              <span className="ml-2 text-2xl font-bold">Cooksy Finder</span>
             </Link>
             <p className="mt-3 text-gray-300">
               Find delicious recipes with ingredients you already have.
@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
             </ul>
           </div>
           
-          <div>
+          {/* <div>
             <h3 className="text-lg font-semibold mb-4">Help & Support</h3>
             <ul className="space-y-2">
               <li>
@@ -106,7 +106,7 @@ const Footer: React.FC = () => {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-gray-400">
