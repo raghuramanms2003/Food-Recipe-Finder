@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
             <p className="mt-3 text-gray-300">
               Find delicious recipes with ingredients you already have.
             </p>
-            <div className="flex space-x-4 mt-4">
+            {/* <div className="flex space-x-4 mt-4">
               <a href="#" className="text-gray-300 hover:text-[#E76F51] transition-colors">
                 <Facebook className="h-6 w-6" />
               </a>
@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
               <a href="#" className="text-gray-300 hover:text-[#E76F51] transition-colors">
                 <Instagram className="h-6 w-6" />
               </a>
-            </div>
+            </div> */}
           </div>
           
           <div>
